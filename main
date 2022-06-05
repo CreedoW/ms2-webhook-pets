@@ -1,5 +1,5 @@
 if game.PlaceId == 9551640993 then
-wait(10)
+wait(10000)
 if _G.Executed == nil then
     _G.Executed = true
     function c3toDecimal(c3)
