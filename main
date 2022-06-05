@@ -37,4 +37,3 @@ if _G.Executed == nil then
         end)
     end
 end
-print("Webhook Is now on")
